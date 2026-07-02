@@ -2,7 +2,7 @@ import useReveal from './useReveal';
 
 const STATS = [
   { value: '450+', label: 'мер поддержки в базе' },
-  { value: '82', label: 'региона России' },
+  { value: '89', label: 'региона России' },
   { value: '24/7', label: 'доступность ИИ-помощника' },
 ];
 
